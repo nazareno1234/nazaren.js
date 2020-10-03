@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: red;
+}
+.logo{
+    width: 5%;
+    margin-left: 2em;
+    float: left;
+}
+.navegador li{
+    display: inline;
+    padding-left: 2em;
+}
+.navegador{
+
+    padding-top: 2em;
+    text-align: center;
+    font-size: 1em;
+}
+.ko{
+    word-spacing: 1em;
+}
+.navegador li a{
+    text-decoration: none;
+    color:white;
+    padding-left: 0em;
+    list-style:none;
+    
+    
+}
+section{
+    clear:both;
+}
+.navegador li a:hover{
+    background-color: black;
+}
+.imgdos{
+    text-align: center;
+}
+.one{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+}
+h1{
+    text-align: center;
+    margin-bottom:0.65em;
+}
+.divone{
+    float: left;
+    width: 50%;
+    border: solid black 1px;
+    padding: 1em;
+}
+.divtwo{
+    border:solid 1px black;
+    float:right ;
+    width:49%;
+    padding: 1em;
+}
+.divtwo h2{
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
+.two{
+    clear: both;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+}
+h4{
+   margin-left: 20em;
+    font-size: 2em;
+
+}
+.remeratitular,.remeraalternativa,.libro1,.libro2{
+    width:35%;
+    height: 400px;
+    float: left;
+    margin-left: 2em;
+    border: solid 1px black;
+    margin-bottom: 1em;
+    padding:1em;
+}
+.remeratitular,.libro1{
+    margin-left:10em;
+}
+.three{
+    width: 50%;
+    margin-left: 30em;
+    padding-bottom: 1em;
+}
+legend{
+    background-color: rosybrown;
+}
+fieldset{
+    background-color: rgb(1,45,7wqwqwqº);
+    padding-bottom: 1em;
+}
+input{
+    padding:4em;
+    width: 90%;
+    
+ 
+}
+.four{
+    background-color:rgb(39, 47,48);
+    margin-top: 2em;
+}
+aside a{
+    text-decoration: none;
+}
+aside div{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    
+   
+}
+h5{
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+aside div ol{
+    float: left;
+    margin-left: 12em;
+}
+aside{
+    margin-top: 2em;
+  
+    
+}
+aside div ol li:hover{
+    background-color: rgba(red, rgb(15, 15, 15), blue, alpha);
+    padding:0.2em;
+    
+}
+aside div ol li{
+    margin-bottom: 1em;
+    list-style: none;
+    
+}
+footer{
+    padding-top: 4em;
+    clear: both;
+    text-align: center;
+    border: red 1px solid;
+    margin-bottom: 1em;
+    padding-bottom: 2em;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer a img{
+    width: 3%;
+    margin-left:1em;
+    
+}
+.ola{
+    margin-left: 28em;
+    width: 8em;
+    
+}
+.localidad{
+    padding-top: 1em;
+}
+select{
+    width: 50%;
+    height: 2em;
+}
+ option{
+    width: 50%;
+    height: 2em;
+}
+
+
+

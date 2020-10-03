@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://previews.123rf.com/images/da6kin/da6kin1604/da6kin160400653/55216558-modelo-incons%C3%BAtil-con-los-tulipanes-decorativos-perfecto-para-fondos-de-pantalla-texturas-de-la-superfic.jpg);
+    padding-bottom: 1em;
+}
+.name,.tel{
+    float: left;
+    margin-right: 1em;
+}
+form div {
+    margin-top: 3em;
+    margin-left: 3em;
+}
+input,select{
+    padding: 1em;
+}
+.mail{
+    width: 43.2%;
+}
+.title{
+    float: left;
+}
+hr{
+    width: 50%;
+    margin-left: 2em;
+    margin-top: 1em;
+    
+}
+.envi{
+    background-color:lightblue;
+    border: none;
+    margin-top:;
+}
+.enviar{
+    margin-top: 0.50em;
+    margin-bottom: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
